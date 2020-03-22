@@ -1,8 +1,6 @@
 var username ='Akinsola Moses';
 var courses =['HTML','CSS','JAVASCRIPT','JAVA'];
 
-window.alert(username);
-
 document.write(username+'<br>');
 document.write(courses+'<br>');
 
